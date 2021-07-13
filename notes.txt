@@ -71,6 +71,7 @@ function App() {
     setLines("_".repeat(word.length));
     generateWord();
     setPickedLetters([]);
+    setGuesses(10);
     document.getElementById("show").style.display = "none";
   }
 
@@ -80,7 +81,6 @@ function App() {
       .then((data) => {
         let stringData = data.toString().toUpperCase();
         setWord(stringData);
-        setGuesses(stringData.length + 1);
         console.log(data);
       })
       .catch((error) => alert("Couldn't find data"));
