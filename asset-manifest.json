@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/JordanSteeleGIT/Hangman.git/static/css/main.9e79730f.chunk.css",
+    "main.js": "/JordanSteeleGIT/Hangman.git/static/js/main.334db28a.chunk.js",
+    "main.js.map": "/JordanSteeleGIT/Hangman.git/static/js/main.334db28a.chunk.js.map",
+    "runtime-main.js": "/JordanSteeleGIT/Hangman.git/static/js/runtime-main.32d07f28.js",
+    "runtime-main.js.map": "/JordanSteeleGIT/Hangman.git/static/js/runtime-main.32d07f28.js.map",
+    "static/js/2.aef30131.chunk.js": "/JordanSteeleGIT/Hangman.git/static/js/2.aef30131.chunk.js",
+    "static/js/2.aef30131.chunk.js.map": "/JordanSteeleGIT/Hangman.git/static/js/2.aef30131.chunk.js.map",
+    "static/js/3.e48da73f.chunk.js": "/JordanSteeleGIT/Hangman.git/static/js/3.e48da73f.chunk.js",
+    "static/js/3.e48da73f.chunk.js.map": "/JordanSteeleGIT/Hangman.git/static/js/3.e48da73f.chunk.js.map",
+    "index.html": "/JordanSteeleGIT/Hangman.git/index.html",
+    "static/css/main.9e79730f.chunk.css.map": "/JordanSteeleGIT/Hangman.git/static/css/main.9e79730f.chunk.css.map",
+    "static/js/2.aef30131.chunk.js.LICENSE.txt": "/JordanSteeleGIT/Hangman.git/static/js/2.aef30131.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.32d07f28.js",
+    "static/js/2.aef30131.chunk.js",
+    "static/css/main.9e79730f.chunk.css",
+    "static/js/main.334db28a.chunk.js"
+  ]
+}
