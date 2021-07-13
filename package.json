@@ -2,7 +2,7 @@
   "name": "hangman",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://jordansteelegit.github.io/Hangman/",
+  "homepage": "http://jordansteelegit.github.io/Hangman/",
   "dependencies": {
     "@testing-library/jest-dom": "^5.11.10",
     "@testing-library/react": "^11.2.6",
